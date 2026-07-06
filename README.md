@@ -1,14 +1,26 @@
-## E-Commerce Project
+# README
+
+## Project Title
+**E-Commerce Order Management System (OMS)**
 
 ## Description
-This project contains the Business Requirement Specification (BRS) for an E-Commerce Order Management System. It describes the business objectives, scope, functional requirements, and non-functional requirements of the system.
+The E-Commerce Order Management System (OMS) is designed to manage the complete order lifecycle, from order placement to delivery and returns. It helps businesses improve efficiency, inventory management, and customer satisfaction.
 
 ## Features
+- User Registration and Login
+- Product Search
+- Shopping Cart
+- Secure Online Payment
+- Order Tracking
 - Inventory Management
-- Order Processing
-- Shipping Management
-- Returns & Refunds
-- Performance, Security, and Reliability Requirements
+- Returns and Refunds
+- Admin Dashboard
+
+## Requirements
+- Microsoft Word
+- PDF Reader
+- Windows 10/11
+- Internet Connection
 
 ## Author
 S.Brindha
