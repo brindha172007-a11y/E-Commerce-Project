@@ -1,5 +1,4 @@
-## Project
-E-Commerce Project
+##E-Commerce Project
 
 ## Description
 This project contains the Business Requirement Specification (BRS) for an E-Commerce Order Management System. It describes the business objectives, scope, functional requirements, and non-functional requirements of the system.
@@ -12,10 +11,7 @@ This project contains the Business Requirement Specification (BRS) for an E-Comm
 - Performance, Security, and Reliability Requirements
 
 ## Author
-Brindha
+S.Brindha
+BCA A
+Kamaraj college
 
-## Version
-1.0
-
-## Date
-06 July 2026
