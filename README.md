@@ -1,7 +1,6 @@
 # README
 
-## Project Title
-**E-Commerce Order Management System (OMS)**
+## E-Commerce Ptoject
 
 ## Description
 The E-Commerce Order Management System (OMS) is designed to manage the complete order lifecycle, from order placement to delivery and returns. It helps businesses improve efficiency, inventory management, and customer satisfaction.
