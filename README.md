@@ -1,3 +1,4 @@
+Week 1
 # E-Commerce Order Management Database System
 
 ## Project Overview
@@ -89,3 +90,43 @@ Week1/
 ## Conclusion
 
 This repository contains the Week 1 documentation for the E-Commerce Order Management Database System. These documents provide the business analysis and software requirements required for the upcoming database design, ER diagram, normalization, SQL implementation, and report generation.
+
+Week 2
+# Week 2 – Entity and Relationship Analysis
+
+## Project Title
+E-Commerce Order Management Database System
+
+### Folder Structure
+
+```
+Week2/
+│── Entity_Analysis_Report.pdf
+│── Entity_Relationship_Analysis.pdf
+│── README.md
+```
+
+## Files Description
+
+### Entity_Analysis_Report.pdf
+This report contains:
+- Entity Identification
+- Entity Attribute List
+- Primary Key Identification
+- Foreign Key Identification
+- Constraints (NOT NULL, UNIQUE, DEFAULT, CHECK)
+
+### Entity_Relationship_Analysis.pdf
+This report contains:
+- Relationship Analysis
+- Cardinality Analysis
+- Relationship Summary
+- Entity Relationship Analysis Report
+
+## Project Objective
+The objective of this phase is to identify all entities, define their attributes, establish primary and foreign keys, analyze relationships, and determine the cardinality between entities for the E-Commerce Order Management Database System.
+
+## Prepared By
+**S. Brindha**  
+Bachelor of Computer Applications (BCA)  
+Kamaraj College
